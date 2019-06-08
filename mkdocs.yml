@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: 整地鯖(春)
+nav:
+    - Home: index.md
+    - リリースノート:
+      - releaseNote/version1.1/version1.1-20190105.md
+      - releaseNote/version1.1/version1.1-20190106.md
+      - releaseNote/version1.1/version1.1-20190107.md
+      - releaseNote/version1.2/version1.2-20190112.md
+      - releaseNote/version1.2/version1.2-20190120.md
+      - releaseNote/version1.2/version1.2-20190122.md
+      - releaseNote/version1.2/version1.2-20190123.md
+      - releaseNote/version1.2/version1.2-20190126.md
+      - releaseNote/version1.2/version1.2-20190127.md
+      - releaseNote/version1.2/version1.2-20190208.md
+      - releaseNote/version1.2/version1.2-20190209.md
+      - releaseNote/version1.2/version1.2-20190218.md
+      - releaseNote/version1.2/version1.2-20190224.md
+      - releaseNote/version1.2/version1.2-20190303.md
+      - releaseNote/version1.2/version1.2-20190306.md
+      - releaseNote/version1.2/version1.2-20190429.md
+      - releaseNote/version1.2/version1.2-20190512.md
+      - releaseNote/version1.2/version1.2-2019XXXX.md
