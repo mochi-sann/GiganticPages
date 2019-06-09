@@ -1,17 +1,35 @@
-# Welcome to MkDocs
+# 整地鯖(春)とは？
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Minecraftにおいて"整地"という作業をこよなく愛する方へ贈る、究極の整地鯖。それが整地鯖(春)です。<br>
+もう、整地の為に道具をそろえたり、歩いて土地を探したり、整地の心得におびえたりする必要はありません。<br>
+整地をすればするほど様々な便利機能が解禁。さらに各地に眠る意志と交感すると、様々な恩恵を受けられます。<br>
+ピッケル片手に広大なMinecraftの世界を縦横無尽に駆け回り、整地を楽しもう。
 
-## Commands
+## おことわり
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* オープンβテスト中の為、レベルのリセット等が起こる可能性がありますことを予めご了承下さい。
+* 当サーバの管理者はunchama,tar0ssの2名です。
+* 整地鯖(春)に関するお問い合わせを「ギガンティック☆整地鯖 」運営チームに行わないでください。ご協力お願いいたします。整地鯖(春)に関するご質問は [公式Discordグループ](https://discord.gg/nmhjtC5) #質問-公式 チャンネルで受け付けております。
 
-## Project layout
+## 接続アドレス
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+`play.seichi.click`
+
+* Minecraft Java(重要) Edition
+* version 1.14.1
+* ログインしたら、ネザースターを右クリックすると出てくるサーバセレクト画面で「整地鯖(春)」を選択するか、/server h1 で入場できます。
+
+## 非公式Wiki
+
+* 有志の方が[非公式Wiki](https://springseichi.sokuhou.wiki/)を作成してくださいました。ゲームプレイのお供にいかがですか？
+* 非公式Wikiの記載内容は整地鯖(春)運営チームに承認されたものではありません。記載内容の正確性も保証しておりませんのでご留意ください。
+
+## 寄付受付
+
+* 当サーバでは、寄付を受け付けております。詳しくは[こちら](https://goo.gl/forms/8ZR3MJwtSeTDkGST2)をご覧ください。
+
+## その他
+
+* [公式Twitter](https://twitter.com/springseichi)、あるよ。
+* 管理人の個人Twitterもよろしく。 [unchama](https://twitter.com/tsukkkkkun) , [tar0ss](https://twitter.com/tar0sh)
+
